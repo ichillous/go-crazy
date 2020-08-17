@@ -2,11 +2,10 @@
 
 ## Project Name
 
-The name of your project.
-
+Snapshot - Picture Generator	
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+Posts pictures that users search for. 
 
 ## API and Data Sample
 
@@ -37,19 +36,15 @@ Sample JSON:
 ```
 
 ## Wireframes
+Picture here
+https://imgur.com/gallery/JpN7IlM
 
-Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
 
-### MVP/PostMVP
-
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP 
-*These are examples only. Replace with your own MVP features.*
 
-- Find and use external api 
-- Render data on page 
-- Allow user to choose favorites 
+- The search bar must be functional and asthetic.
+- API must populate a picture and remove a picture.
 
 #### PostMVP  
 *These are examples only. Replace with your own Post-MVP features.*
@@ -61,15 +56,15 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
 
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
+I want to keep this structure 
 
 |  Day | Deliverable | Status
 |---|---| ---|
 |August 14-16| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
 |August 17| Project Approval | Incomplete
 |August 18| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|August 19| Initial Clickable Model  | Incomplete
-|August 20| MVP | Incomplete
+|August 19| Initial Clickable Model  | MVP | Incomplete
+|August 20| MVP touch ups | Incomplete
 |August 21| Presentations | Incomplete
 
 ## Priority Matrix
