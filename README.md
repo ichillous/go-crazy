@@ -40,6 +40,9 @@ Picture here
 https://imgur.com/gallery/JpN7IlM
 
 
+### Priority Matrix
+https://imgur.com/gallery/UCP4rfj
+
 
 #### MVP 
 
